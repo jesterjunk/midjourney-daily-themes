@@ -35,7 +35,8 @@ function get_post_data(post_url = ``) {
             "post_id": "${post_id}",
             "post_message": "${post_message}",
             "post_timestamp": "${post_timestamp}",
-            "post_element": "${post_element}"
+            "post_element": "${post_element}",
+            "theme": ""
         }
     },
 `
